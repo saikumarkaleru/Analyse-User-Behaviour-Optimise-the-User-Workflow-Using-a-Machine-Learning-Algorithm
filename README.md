@@ -1,6 +1,6 @@
 
- I have created an e-commerce website using Html,css,javascript,bootstrap then deployed
-the site in Netfly Platform . It contains various webpages such as home, store, account, about,
+ I have created an e-commerce website using Html,css,javascript,bootstrap then deployed into Netfly Platform . 
+ It contains various webpages such as home, store, account, about,
 contact us. There are various features like product details, add to cart, search products and
 payment gateway. We have also used filters to change the product list (e.g. category, price range,
 etc.). I have applied user guiding tool named WalkMe that will guide a new user through orderly
@@ -11,4 +11,5 @@ analytics data from various users and stored it. I have collected data of around
 various data points such as time spent by users on the different pages on website, filters being
 used by the users , time spent by users on particular product page, etc. Then, Fitting the Markov
 Chain model gives us the transition probabilities matrices and the lambda parameters of the chain
-for each one of the three lags along with the Start and End Probabilities
+for each one of the three lags along with the Start and End Probabilities.
+
