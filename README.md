@@ -3,6 +3,8 @@
 * Google Analytics
 * Ms Excel
 * Walkme
+
+## IDE
 * jupyter notebook
 
 ## Machine Learning Algorithm
